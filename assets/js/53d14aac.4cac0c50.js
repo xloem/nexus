@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[2665],{1352:function(o){o.exports=JSON.parse('{"name":"Anonymous Functioning","permalink":"/tags/anonymous-functioning","docs":[{"id":"zine/00000001/anoma-protocol","title":"Anoma Protocol","description":"Learn about Anoma Protocol","permalink":"/zine/00000001/anoma-protocol"}],"allTagsPath":"/tags"}')}}]);
